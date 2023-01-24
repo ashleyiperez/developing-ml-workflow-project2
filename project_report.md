@@ -35,7 +35,7 @@ During testing, with a test image, the model confidence stayed the same, as seen
 ![successful-model2-stepfunction-visual-01-21-23.jpg](successful-model2-stepfunction-visual-01-21-23.jpg)
 
 ### If given more time for testing to improve your model, where would you focus your attention on? 
-More invocation tests would be run and analyzed. Based on the invocation data, some adjustments to the model visualization might be made to better understand invocation patterns for long-term applications and production environments. This might also lead to better understanding of model capability and more explainable threhold limit.
+More invocation tests would be run and analyzed. Based on the invocation data, some adjustments to the model visualization might be made to better understand invocation patterns for long-term applications and production environments. This might also lead to better understanding of model capability and more explainable threshold limit.
 
 ### This is a successful workflow:
 
